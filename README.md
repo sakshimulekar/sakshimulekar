@@ -5,6 +5,8 @@
 <hr>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sakshimulekar&label=Profile%20views&color=0e75b6&style=flat" alt="sakshimulekar" /> </p>
 
+<a href="https://www.linkedin.com/in/sakshi-mulekar-27156322b/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin-logo" height="30" width="40" /></a>
+
 <a href="https://twitter.com/MulekarSakshi" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
             alt="twitter-logo" height="30" width="40" /></a>
