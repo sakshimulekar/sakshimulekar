@@ -1,8 +1,8 @@
 
 <h1 align="center">Hello 👋, I'm VAIBHAV SHEVNE</h1>
 <h3 align="center">A Full Stack Developer is in making.</h3>
-<div align="right" width=400>
-    <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif" width="100" />
+<div align="right" width=400px>
+    <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif" width="400" />
 </div>
 <hr>
 <p align="center">
