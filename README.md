@@ -9,7 +9,7 @@
 <p align="center">
     <a href="https://www.linkedin.com/in/sakshi-mulekar-27156322b/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin-logo" height="30" width="40" /></a>
 
-<p align="left"> <a href="https://twitter.com/https://twitter.com/mulekarsakshi?t=f1spmaal_phmt7g53mhcia&s=31" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/mulekarsakshi?t=f1spmaal_phmt7g53mhcia&s=31?logo=twitter&style=for-the-badge" alt="https://twitter.com/mulekarsakshi?t=f1spmaal_phmt7g53mhcia&s=31" /></a> </p>
+<p align="left"> <a href="https://twitter.com/MulekarSakshi" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter-logo" height="30" width="40" /></a> </p>
 
     
 
@@ -92,4 +92,3 @@
   
   
 <br /> 
-
