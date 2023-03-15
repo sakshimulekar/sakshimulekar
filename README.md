@@ -1,9 +1,9 @@
-
-<h1 align="center">Hello 👋, I'm VAIBHAV SHEVNE</h1>
-<h3 align="center">A Full Stack Developer is in making.</h3>
 <div align="right" width=400px>
     <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif" width="400" />
 </div>
+<h1 align="center">Hello 👋, I'm VAIBHAV SHEVNE</h1>
+<h3 align="center">A Full Stack Developer is in making.</h3>
+
 <hr>
 <p align="center">
     <a href="https://www.linkedin.com/in/vaibhav-shevne-1b1935170/" target="_blank"><img align="center"
@@ -12,7 +12,7 @@
     <a href="https://www.instagram.com/itz__vaibhzz3.0/" target="_open"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
             alt="vaibhzz101 height="30" width="40" /></a>
-    <a href="https://twitter.com/vaibhav_shevne" target="blank"><img align="center"
+    <a href="https://twitter.com/https://twitter.com/mulekarsakshi?t=f1spmaal_phmt7g53mhcia&s=31" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
             alt="vaibhav" height="30" width="40" /></a>
     <a href="https://www.facebook.com/vaibhav.shevne.1" target="blank"><img align="center"
