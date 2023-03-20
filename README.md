@@ -5,6 +5,9 @@
 <h3 align="center">I am coding enthusiast.</h3>
 
 <hr>
+## :link: Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://sakshimulekar.github.io/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sakshi-mulekar-27156322b/)
 <hr>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sakshimulekar&label=Profile%20views&color=0e75b6&style=flat" alt="sakshimulekar" /> </p>
 <p align="center">
@@ -24,17 +27,6 @@
 - ⚡ Fun fact **World is Ending soon, So better commit your code before you....**
 
 <br> 
-
-## :link: Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://sakshimulekar.github.io)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sakshi-mulekar-27156322b/)
-
-
-
-
-
-
-
 
 <h2 align="center"><i>Tech Stack</i></h2>
 
