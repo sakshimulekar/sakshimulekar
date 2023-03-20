@@ -21,13 +21,22 @@
 
 - 📫 How to reach me **sakshimulekar2017@gmail.com**
 
-- 🌏 Visit to my [portfolio](https://sakshimulekar.github.io)
-
 - 📃 Look at my [Resume](https://drive.google.com/file/d/1D_zUTIq1jeTSo5lcfoxpyPyi69ChzY17/view?usp=share_link) 
 
 - ⚡ Fun fact **World is Ending soon, So better commit your code before you....**
 
 <br> 
+
+## :link: Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://sakshimulekar.github.io)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arundev-vb-139014211//)
+
+
+
+
+
+
+
 
 <h2 align="center"><i>Tech Stack</i></h2>
 
