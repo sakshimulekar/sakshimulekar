@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **sakshimulekar2017@gmail.com**
 
-- 🌏 Visit to my [portfolio](https://comfy-douhua-c155e9.netlify.app/)
+- 🌏 Visit to my [portfolio](https://sakshimulekar.github.io)
 
 - 📃 Look at my [Resume](https://drive.google.com/file/d/1D_zUTIq1jeTSo5lcfoxpyPyi69ChzY17/view?usp=share_link) 
 
