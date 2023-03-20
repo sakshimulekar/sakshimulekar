@@ -21,8 +21,6 @@
 
 - 📫 How to reach me **sakshimulekar2017@gmail.com**
 
-- 📃 Look at my [Resume](https://drive.google.com/file/d/1D_zUTIq1jeTSo5lcfoxpyPyi69ChzY17/view?usp=share_link) 
-
 - ⚡ Fun fact **World is Ending soon, So better commit your code before you....**
 
 <br> 
