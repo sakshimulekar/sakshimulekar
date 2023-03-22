@@ -5,7 +5,7 @@
 <h3 align="center">I am coding enthusiast.</h3>
 
 <hr>
-<a href="https://sakshimulekar.github.io">Portfolio</a>
+<a href="https://sakshimulekar.github.io/">Portfolio</a>
 
 <hr>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sakshimulekar&label=Profile%20views&color=0e75b6&style=flat" alt="sakshimulekar" /> </p>
