@@ -2,7 +2,7 @@
     <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif" width="400" />
 </div>
 <h1 align="center">Hello 👋, I'm SAKSHI MULEKAR</h1>
-<h3 align="center">I am coding enthusiast.</h3>
+<h3 align="center">A passionate and motivated Full Stack Developer seeking an opportunity to gain relevant experience in the software development industry with the skills learned.</h3>
 
 <hr>
 <a href="https://sakshimulekar.github.io/">Portfolio</a>
